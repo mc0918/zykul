@@ -1,0 +1,80 @@
+#generator-container {
+    width: 100%;
+    align-items: center;
+}
+
+.page-description {
+    text-align: left;
+    list-style-position: inside;
+}
+
+.size-slider, 
+.attack-slider,
+.defense-slider, 
+.range-slider, 
+.magic-slider,
+.experience-slider 
+{
+    width: 300px
+}
+
+.stat-block-container {
+    background-image: url('../../assets/parchment.png');
+    min-width: 500px;
+}
+
+.name {
+    font-size:225%;
+    font-family:Georgia, serif;
+    font-variant:small-caps;
+    font-weight:bold;
+    color:#A73335;
+}
+
+/* .button-container {
+    width: 50%;
+    align-items: left;
+    text-align: start;
+    margin: auto;
+}
+
+.stat-block-container {
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.stat-block {
+    text-align: center;
+    align-items: center;
+}
+
+.generate-unit-button {
+    width: 50%;
+}
+
+.unit-name-field-container,
+.size-slider-container, 
+.attack-slider-container, 
+.defense-slider-container, 
+.range-slider-container, 
+.magic-slider-container,
+.experience-slider-container
+{
+    width: 50%;
+    margin: auto;
+}
+
+
+
+.size-slider-input, 
+.attack-slider-input,
+.defense-slider-input, 
+.range-slider-input, 
+.magic-slider-input,
+.experience-slider-input 
+{
+    width: 42px
+} */
+
