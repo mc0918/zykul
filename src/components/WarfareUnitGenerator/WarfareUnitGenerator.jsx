@@ -202,6 +202,7 @@ export const WarfareUnitGenerator = () => {
                 <Grid item xs={12}>
                     <div className="page-description">
                         <h1>Warfare Unit Generator</h1>
+                        <a href="https://github.com/stevenzych/dnd_units/blob/master/warfare_unit_generator.ipynb" target="_blank">source</a>
                         <h3>Introduction</h3>
                         <p>This generator takes in six values and creates combat-ready units. The values are:</p>
                         <ol>
