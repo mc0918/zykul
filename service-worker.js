@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zykul/precache-manifest.1468267c7b3f278005539b8fc5b5b9e6.js"
+  "/zykul/precache-manifest.adbc308dd15cff3482c103d49545e3bf.js"
 );
 
 self.addEventListener('message', (event) => {
