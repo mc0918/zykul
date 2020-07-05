@@ -1,15 +1,19 @@
 body {
     padding: 0;
     margin: 0;
+    background-color: #F3F2F1;
 }
 
 .app-container {
     margin: 0;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .header-container {
-    width: 100%;
+    width: 100vw;
     margin-bottom: 5em;
+
 }
 
 .content-container {

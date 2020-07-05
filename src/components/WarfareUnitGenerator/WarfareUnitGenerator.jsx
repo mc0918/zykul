@@ -198,11 +198,11 @@ export const WarfareUnitGenerator = () => {
 
     return (
         <div id="generator-container">
-            <Grid id="grid-container" container spacing={2} justify="space-between" alignItems="center">
+            <Grid id="grid-container" container spacing={2} justify="space-evenly" alignItems="center">
                 <Grid item xs={12}>
                     <div className="page-description">
                         <h1>Warfare Unit Generator</h1>
-                        <a href="https://github.com/stevenzych/dnd_units/blob/master/warfare_unit_generator.ipynb" target="_blank">source</a>
+                        <a href="https://github.com/stevenzych/dnd_units/blob/master/warfare_unit_generator.ipynb" target="_blank" rel="noopener noreferrer">source</a>
                         <h3>Introduction</h3>
                         <p>This generator takes in six values and creates combat-ready units. The values are:</p>
                         <ol>
@@ -225,7 +225,7 @@ export const WarfareUnitGenerator = () => {
                         </ul>
                     </div>
                 </Grid>
-                <Grid item s={6}>
+                <Grid item s={6} >
                     <Grid item xs={12}>
                         {renderTextInput("Unit Name", unitName, setUnitName)}
                     </Grid>
