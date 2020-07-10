@@ -1,6 +1,7 @@
 #generator-container {
     width: 100%;
     align-items: center;
+    background-color: #F3F2F1;
 }
 
 .page-description {
@@ -20,7 +21,8 @@
 
 .stat-block-container {
     background-image: url('../../assets/parchment.png');
-    min-width: 500px;
+    width: 500px;
+    border: 2px solid #B8946E
 }
 
 .name {
@@ -29,6 +31,7 @@
     font-variant:small-caps;
     font-weight:bold;
     color:#A73335;
+    word-wrap: break-word;
 }
 
 /* .button-container {

@@ -40,7 +40,7 @@ export const Header = () => {
                         underline="none"
                         color="inherit"
                         className={classes.title}
-                        href="/"
+                        href="/zykul"
                     >
                         {'Zykul Game Concept'}
                     </Link>
