@@ -164,6 +164,7 @@ export const WarfareUnitGenerator = () => {
         const sizeStat = calculateSize(sizeInput);
         const attackStat = calculateAttack(attackInput, experienceInput);
         const defenseStat = calculateDefense(sizeInput, defenseInput, experienceInput);
+        const magicDefenseStat = Math.floor(defenseInput/2) + magicInput
         const rangeStat = calculateRange(rangeInput);
         const magicStat = magicInput;
         const expStat = calculateExperience(experienceInput);
@@ -182,6 +183,9 @@ export const WarfareUnitGenerator = () => {
                 </ListItem>
                 <ListItem>
                     Defense: {defenseStat}
+                </ListItem>
+                <ListItem>
+                    Magic Defense: {magicDefenseStat}
                 </ListItem>
                 <ListItem>
                     Range: {rangeStat} ft.
