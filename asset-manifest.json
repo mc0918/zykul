@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/zykul/static/css/main.f749f73a.chunk.css",
-    "main.js": "/zykul/static/js/main.8e1fa9f8.chunk.js",
-    "main.js.map": "/zykul/static/js/main.8e1fa9f8.chunk.js.map",
+    "main.css": "/zykul/static/css/main.3638586c.chunk.css",
+    "main.js": "/zykul/static/js/main.ef0360b1.chunk.js",
+    "main.js.map": "/zykul/static/js/main.ef0360b1.chunk.js.map",
     "runtime-main.js": "/zykul/static/js/runtime-main.0acbfe70.js",
     "runtime-main.js.map": "/zykul/static/js/runtime-main.0acbfe70.js.map",
     "static/js/2.9bb2db5a.chunk.js": "/zykul/static/js/2.9bb2db5a.chunk.js",
     "static/js/2.9bb2db5a.chunk.js.map": "/zykul/static/js/2.9bb2db5a.chunk.js.map",
     "index.html": "/zykul/index.html",
-    "precache-manifest.adbc308dd15cff3482c103d49545e3bf.js": "/zykul/precache-manifest.adbc308dd15cff3482c103d49545e3bf.js",
+    "precache-manifest.b5d6fcfd00c34b0712f785f72cc7141c.js": "/zykul/precache-manifest.b5d6fcfd00c34b0712f785f72cc7141c.js",
     "service-worker.js": "/zykul/service-worker.js",
-    "static/css/main.f749f73a.chunk.css.map": "/zykul/static/css/main.f749f73a.chunk.css.map",
+    "static/css/main.3638586c.chunk.css.map": "/zykul/static/css/main.3638586c.chunk.css.map",
     "static/js/2.9bb2db5a.chunk.js.LICENSE.txt": "/zykul/static/js/2.9bb2db5a.chunk.js.LICENSE.txt",
     "static/media/WarfareUnitGenerator.css": "/zykul/static/media/parchment.cb6530a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0acbfe70.js",
     "static/js/2.9bb2db5a.chunk.js",
-    "static/css/main.f749f73a.chunk.css",
-    "static/js/main.8e1fa9f8.chunk.js"
+    "static/css/main.3638586c.chunk.css",
+    "static/js/main.ef0360b1.chunk.js"
   ]
 }

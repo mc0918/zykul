@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0694e970789732ddb5e5f7f0b560150",
+    "revision": "a57c534a550baaa46b93ebf7e0723f10",
     "url": "/zykul/index.html"
   },
   {
-    "revision": "f8477ead653f90e762bf",
-    "url": "/zykul/static/css/main.f749f73a.chunk.css"
+    "revision": "708356e6456eb4f19afb",
+    "url": "/zykul/static/css/main.3638586c.chunk.css"
   },
   {
     "revision": "6397ae7c847755977e90",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zykul/static/js/2.9bb2db5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8477ead653f90e762bf",
-    "url": "/zykul/static/js/main.8e1fa9f8.chunk.js"
+    "revision": "708356e6456eb4f19afb",
+    "url": "/zykul/static/js/main.ef0360b1.chunk.js"
   },
   {
     "revision": "43dcdd796c4552f089df",
